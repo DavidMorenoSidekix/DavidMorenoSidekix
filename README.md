@@ -9,8 +9,8 @@ I am a founding engineer at SideKix, part of the development team across Android
 |---|---|
 | **Mobile: Android** | Kotlin, Jetpack Compose, MVVM and clean architecture, coroutines and StateFlow, Dagger/Hilt, Room, Ktor, Material Design 3 |
 | **Mobile: cross-platform** | Kotlin Multiplatform, Flutter, Dart |
-| **Mobile: iOS** | Swift, SwiftUI, The Composable Architecture (TCA), Swift Concurrency, Swift Package Manager, Xcode |
-| **Web and frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Mobile: iOS** | Swift, SwiftUI, The Composable Architecture (TCA), MVVM and MVC, Swift Concurrency, Swift Package Manager, Xcode, Objective-C |
+| **Web and frontend** | Next.js, Astro, React, TypeScript, Tailwind CSS |
 | **Rust** | Rust, axum, sqlx, Postgres |
 | **Payments** | Stripe (PaymentSheet, saved cards), in-app purchases |
 | **Real-time and auth** | LiveKit voice, Google Sign-In, Sign in with Apple |
