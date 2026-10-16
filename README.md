@@ -29,6 +29,26 @@ I build with Claude Code, and the setup is designed so the AI follows the same r
 - **Guardrails around the repo:** a fixed git identity per project, feature branches only, pull requests into `staging`, promotion to `release` through QA, and no secrets or environment values in source.
 - **Ask before changing the foundation:** new dependencies, new patterns and new folders need a decision from the team first.
 
+## Studies and certifications
+### Currently studying
+| Program | Institution | Period |
+|---|---|---|
+| Specialization in Enterprise Artificial Intelligence | Costa Rica Institute of Technology (TEC) | Sep 2026 to Feb 2027 |
+| Master of Science in Information Technology (MSIT) | University of the People | In progress |
+
+### Education
+- Baccalaureate in Business Informatics, University of Costa Rica (UCR), 2018
+
+### Certifications and continuous learning
+| Year | Course |
+|---|---|
+| **2026** | Technical Agents of Change: Agentic Coding and Context Engineering |
+| | Building Industry-Level Multiplatform Apps With Kotlin Multiplatform (PL Coding GmbH) |
+| | Ultimate Compose Multiplatform: Android/iOS + Testing (Udemy) |
+| **2020** | Complete Kotlin Development Masterclass · Mastering Kotlin: Null Safety · Flutter and Firebase |
+| **2019** | Firebase and Firestore Masterclass · Android Jetpack Masterclass (Kotlin) · Flutter and Dart (59 hrs) · Xamarin Forms 4.0 with ASP.NET Core API |
+| **2016** | Microsoft Xamarin Basic Diploma |
+
 ## Connect
 | | |
 |---|---|
