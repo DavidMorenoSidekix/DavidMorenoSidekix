@@ -1,6 +1,6 @@
 # David Moreno
 
-**Founding Engineer at [SideKix](https://github.com/SideKix-HQ) · Mobile-First Full-Stack Engineer · End-to-End Product Development**
+**Founding Engineer at [SideKix](https://github.com/SideKix-HQ) · Mobile-First Full-Stack Engineer · End-to-End Product Development · Applied AI**
 
 I am a founding engineer at SideKix, part of the development team across Android, Flutter and iOS. My depth is in Kotlin and Jetpack Compose, Kotlin Multiplatform and Flutter, backed by clean architecture, strong testing and audit habits, and an agentic AI development background using Claude Code.
 
