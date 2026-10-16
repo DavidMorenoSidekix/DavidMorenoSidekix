@@ -42,9 +42,9 @@ I build with Claude Code, and the setup is designed so the AI follows the same r
 ### Certifications and continuous learning
 | Year | Course |
 |---|---|
-| **2025** | Technical Agents of Change: Agentic Coding and Context Engineering (Chipp) |
 | **2026** | Building Industry-Level Multiplatform Apps With Kotlin Multiplatform (PL Coding GmbH) |
 | | Ultimate Compose Multiplatform: Android/iOS + Testing (Udemy) |
+| **2025** | Technical Agents of Change: Agentic Coding and Context Engineering (Chipp) |
 | **2020** | Complete Kotlin Development Masterclass |
 | | Mastering Kotlin: Null Safety |
 | | Flutter and Firebase |
