@@ -2,7 +2,7 @@
 
 **Founding Engineer at [SideKix](https://github.com/SideKix-HQ) · Mobile-First Full-Stack Engineer · End-to-End Product Development · Applied AI**
 
-I am a founding engineer at SideKix, part of the development team across Android, Flutter and iOS. My depth is in Kotlin and Jetpack Compose, Kotlin Multiplatform and Flutter, backed by clean architecture, strong testing and audit habits, and an agentic AI development background using Claude Code.
+I am a founding engineer at SideKix, part of the development team across Android, Flutter and iOS. My depth is in Kotlin and Jetpack Compose, Kotlin Multiplatform and Flutter, backed by clean architecture and strong testing and audit habits. I also bring solid training in context engineering and an agentic AI engineering background using Claude Code.
 
 ## Core competencies
 | Area | Stack |
