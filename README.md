@@ -45,9 +45,6 @@ I build with Claude Code, and the setup is designed so the AI follows the same r
 | **2026** | Technical Agents of Change: Agentic Coding and Context Engineering |
 | | Building Industry-Level Multiplatform Apps With Kotlin Multiplatform (PL Coding GmbH) |
 | | Ultimate Compose Multiplatform: Android/iOS + Testing (Udemy) |
-| **2020** | Complete Kotlin Development Masterclass · Mastering Kotlin: Null Safety · Flutter and Firebase |
-| **2019** | Firebase and Firestore Masterclass · Android Jetpack Masterclass (Kotlin) · Flutter and Dart (59 hrs) · Xamarin Forms 4.0 with ASP.NET Core API |
-| **2016** | Microsoft Xamarin Basic Diploma |
 
 ## Connect
 | | |
