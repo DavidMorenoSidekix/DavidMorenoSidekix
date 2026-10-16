@@ -4,14 +4,6 @@
 
 I am a founding engineer at SideKix. I own the product end to end, from the first design frame and architecture decision through implementation, testing, release and iteration. I start on mobile, because that is where our members and advisors live, and I build the web and backend pieces around it: Next.js on the web and full-stack Rust where the system needs to be fast, small and correct.
 
-## What I do at SideKix
-- **Mobile first:** the native iOS app in Swift and SwiftUI, built on a reducer-based architecture with every screen matched to its Figma frame.
-- **Full-stack web:** Next.js (App Router, TypeScript) for web surfaces that share the same product, design language and data as the app.
-- **Full-stack Rust:** axum APIs, sqlx and Postgres, with shared types and a clean, testable architecture.
-- **Product end to end:** idea, design, architecture, implementation, testing, release and iteration, shipped to TestFlight and the App Store.
-- **Payments and real-time:** Stripe checkout and saved cards, credits and memberships, and live voice sessions.
-- **Quality and delivery:** unit tests on every reducer, snapshot tests for every screen, and separate Debug, Staging and Release environments.
-
 ## Core competencies
 | Area | Stack |
 |---|---|
