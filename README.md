@@ -12,6 +12,7 @@ I am a founding engineer at SideKix, part of the development team across Android
 | **Mobile: iOS** | Swift, SwiftUI, The Composable Architecture (TCA), MVVM and MVC, Swift Concurrency, Swift Package Manager, Xcode, Objective-C |
 | **Web and frontend** | Next.js, Astro, React, TypeScript, Tailwind CSS |
 | **Rust** | Rust, axum, sqlx, Postgres |
+| **Databases** | PostgreSQL, MySQL, SQLite, SQL, sqlx, CSV, JSON |
 | **Payments** | Stripe (PaymentSheet, saved cards), in-app purchases |
 | **Real-time and auth** | LiveKit voice, Google Sign-In, Sign in with Apple |
 | **Testing** | Swift Testing, TCA `TestStore`, snapshot testing, XCTest for UI |
