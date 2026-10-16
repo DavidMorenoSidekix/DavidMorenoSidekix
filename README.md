@@ -61,4 +61,4 @@ I build with Claude Code, and the setup is designed so the AI follows the same r
 | **SideKix on GitHub** | [SideKix-HQ](https://github.com/SideKix-HQ) |
 | **GitHub** | [DavidMorenoSidekix](https://github.com/DavidMorenoSidekix) |
 | **LinkedIn** | [david-moreno-533bb5155](https://www.linkedin.com/in/david-moreno-533bb5155/) |
-| **Founder** | [Artificialss.ai](https://artificialss.ai/) |
+| **Portfolio** | [Artificialss.ai](https://artificialss.ai/) |
