@@ -7,7 +7,7 @@ I am a founding engineer at SideKix, part of the development team across Android
 ## Core competencies
 | Area | Stack |
 |---|---|
-| **Mobile: Android** | Kotlin, Jetpack Compose, MVVM and clean architecture, coroutines and StateFlow, Dagger/Hilt, Room, Ktor, Material Design 3 |
+| **Mobile: Android** | Kotlin, Java, Jetpack Compose, MVVM and clean architecture, coroutines and StateFlow, Dagger/Hilt, Room, Ktor, Material Design 3 |
 | **Mobile: cross-platform** | Kotlin Multiplatform, Flutter, Dart |
 | **Mobile: iOS** | Swift, SwiftUI, The Composable Architecture (TCA), MVVM and MVC, Swift Concurrency, Swift Package Manager, Xcode, Objective-C |
 | **Web and frontend** | Next.js, Astro, React, TypeScript, Tailwind CSS |
