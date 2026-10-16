@@ -24,13 +24,6 @@ I am a founding engineer at SideKix, working with the mobile team across Android
 - **Environments you can trust:** the build configuration decides the backend, so a Debug build can never silently reach production.
 - **Small, reviewable changes:** feature branches, pull requests into `staging`, and promotion to `release` through QA on TestFlight.
 
-## Product areas
-- **Advisor sessions:** discovery, booking, rescheduling and cancellation, with session chat for members and advisors.
-- **Live voice:** a real-time voice assistant built on LiveKit.
-- **Events and content:** advisor-hosted events with ticketing and check-in, plus advisor content.
-- **Memberships and credits:** purchase flows, saved cards and credit balances.
-- **Advisor wallet:** earnings and payout history.
-
 ## Connect
 | | |
 |---|---|
