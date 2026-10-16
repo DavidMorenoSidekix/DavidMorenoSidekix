@@ -2,12 +2,13 @@
 
 **Founding Engineer at [SideKix](https://github.com/SideKix-HQ) · Mobile-First Full-Stack Engineer · End-to-End Product Development**
 
-I am a founding engineer at SideKix, working with the mobile team across Android and iOS. My main area is native Android in Kotlin and Jetpack Compose. We build as one team: shared architecture decisions, one design language and consistent behavior on both platforms.
+I am a founding engineer at SideKix, working with the mobile team across Android and iOS. My main area is native Android in Kotlin and Jetpack Compose, alongside Kotlin Multiplatform and Flutter. We build as one team: shared architecture decisions, one design language and consistent behavior on both platforms.
 
 ## Core competencies
 | Area | Stack |
 |---|---|
 | **Mobile: Android** | Kotlin, Jetpack Compose, MVVM and clean architecture, coroutines and StateFlow, Dagger/Hilt, Room, Ktor, Material Design 3 |
+| **Mobile: cross-platform** | Kotlin Multiplatform, Flutter, Dart |
 | **Mobile: iOS** | Swift, SwiftUI, The Composable Architecture (TCA), Swift Concurrency, Swift Package Manager, Xcode |
 | **Web and frontend** | Next.js, React, TypeScript, Tailwind CSS |
 | **Rust** | Rust, axum, sqlx, Postgres |
