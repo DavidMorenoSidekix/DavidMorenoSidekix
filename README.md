@@ -19,12 +19,12 @@ I am a founding engineer at SideKix, working with the mobile team across Android
 | **Design** | Figma-driven design system, accessibility and Dynamic Type |
 
 ## How I build
-I build with Claude Code, and the setup is designed so the AI follows the same rules a senior engineer on the team would.
+I build with Claude Code, and the setup is designed so the AI follows the same rules a senior engineer on the team would, on every platform.
 
-- **Layered project rules:** a committed `CLAUDE.md` holds the shared architecture, design system and testing rules for the whole team. A personal, untracked `CLAUDE.local.md` adds stricter day-to-day rules and wins on conflicts, so every session starts with the rules already loaded.
-- **Architecture as written rules:** reducer-based state with explicit actions, side effects only in dependency clients, one-way layering from view to system, and no business logic in views. The rules say what to do and what never to do, so a change that breaks the pattern is caught before it is written.
-- **Specialized agents and skills:** a visual-verification agent and a snapshot skill render each changed screen and compare it with the design, so UI work is checked against Figma and not by eye.
-- **Tests as the gate:** every behavior change ships with a reducer test that never touches the network, plus snapshot tests for screens. A change is not done until the tests and the diff review against the rules both pass.
+- **Layered project rules:** each repository has a committed `CLAUDE.md` with the shared architecture, design system and testing rules for the team. A personal, untracked `CLAUDE.local.md` adds stricter day-to-day rules and wins on conflicts, so every session starts with the rules already loaded.
+- **Architecture as written rules:** unidirectional state, clear layers from UI to data, side effects isolated behind clients, and no business logic in views. The rules say what to do and what never to do, so a change that breaks the pattern is caught before it is written.
+- **Specialized agents and skills:** agents and skills handle repeatable work such as visual verification, rendering each changed screen and comparing it with the design, so UI work is checked against Figma and not by eye.
+- **Tests as the gate:** every behavior change ships with tests that never touch the network, and screens are covered by visual tests. A change is not done until the tests pass and the diff has been reviewed against the rules.
 - **Audit and document, don't drive-by fix:** problems found during a task are written down in an audit document and ticketed. They are not refactored unasked, which keeps every pull request small and reviewable.
 - **Guardrails around the repo:** a fixed git identity per project, feature branches only, pull requests into `staging`, promotion to `release` through QA, and no secrets or environment values in source.
 - **Ask before changing the foundation:** new dependencies, new patterns and new folders need a decision from the team first.
